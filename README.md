@@ -1,5 +1,5 @@
 Windows - Login/Logout - Telegram
-
+=====================
 Send an alert for a telegram warning to input/output to the server
 
 Need use the script in the GPO servers
